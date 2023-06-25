@@ -1,1 +1,3 @@
 # ImageProcessing
+Task:
+Develop a program that detects objects by their boundaries in the image. It is required to create a convolution matrix and use this matrix to process the input image. As a result of image processing, zones corresponding to the possible boundaries of the objects specified in the task should be highlighted. According to the selected boundaries, it is necessary to determine whether they contain the desired object. Next, it is necessary to form a new image, in which the detected fragments of the original image will be placed on a solid background (for objects in the form of a line, a strip that includes the object). The image is processed in grayscale.
